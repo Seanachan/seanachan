@@ -1,54 +1,40 @@
-<h1 align="center">Hsin-Chen, Pai</h1>
+# Hsin-Chen Pai
 
-###
+CS undergrad on the **NCKU × Purdue dual-degree** programme, Class of 2027.
+Co-founder and CTO of **TREKX** (travel tech) · research assistant on active cyber-defence at **NYCU**.
 
-<h2 align="left">About Me</h2>
+I build AI applications and full-stack systems — and ship them.
 
-###
+- 🔬 **Research** — referring multi-object tracking. [GMC-Link](https://github.com/Seanachan/GMC-Link) compensates for camera ego-motion in RMOT models: **+53.5% HOTA on Refer-KITTI** (14.08 → 21.62).
+- 🛠 **Building** — small tools that solve a problem I actually hit, deployed the same week.
+- 🌐 **Portfolio** — [seanachan.github.io](https://seanachan.github.io/) — bilingual 中/EN, résumé included.
 
-<p align="left">- I'm from National Cheng Kung University, Taiwan<br>- I'm an innovator who loves crafting new things.<br>- I have a wide range of interests in computer vision, full-stack development, and game development.</p>
+**Stack:** Python · TypeScript · Java · C / PIC18F assembly · C# (Unity)
 
-###
+Open to 2027 new-grad SWE roles.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-201e1d?style=for-the-badge&logoColor=white)](https://seanachan.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hcpai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsinchen.pai1218@gmail.com)
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Seanachan.Seanachan&left_color=cornflowerblue&right_color=brown"  />
-</div>
+### Selected work
 
-###
+| Project | What it is |
+|---|---|
+| [GMC-Link](https://github.com/Seanachan/GMC-Link) | Plug-and-play module letting RMOT models compensate for camera ego-motion on motion-referring expressions. Python. |
+| [seanachan.github.io](https://github.com/Seanachan/seanachan.github.io) | This portfolio — Astro, statically generated, fully bilingual 中/EN. |
+| [trip-schedule](https://github.com/Seanachan/trip-schedule) · [live](https://seanachan.github.io/trip-schedule/) | Renders a travel itinerary straight from an Obsidian note. TypeScript. |
+| [trip-debt-calculator](https://github.com/Seanachan/trip-debt-calculator) · [live](https://seanachan.github.io/trip-debt-calculator/) | Split trip expenses, settle up at the end. TypeScript. |
+| [wenyan-compiler](https://github.com/Seanachan/wenyan-compiler) | Compiler for wenyan-lang, the classical-Chinese programming language. C. |
+| [Welcome-on-board](https://github.com/Seanachan/Welcome-on-board) | Autonomous car on PIC18F4520 + XC8, with a paired voice-command Android app. Embedded C / assembly. |
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
-
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  
+
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-  
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seanachan/seanachan/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seanachan/seanachan/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/seanachan/seanachan/output/pacman-contribution-graph.svg">
-</picture>
-</div>
 
-###
+</div>
