@@ -24,10 +24,12 @@ Open to 2027 new-grad SWE roles.
 | Project | What it is |
 |---|---|
 | [GMC-Link](https://github.com/Seanachan/GMC-Link) | Plug-and-play module letting RMOT models compensate for camera ego-motion on motion-referring expressions. Python. |
+| [FlexHook-CF](https://github.com/Seanachan/FlexHook-CF) | Counterfactual hard-negative learning for two-stage RMOT — extends FlexHook (CVPR'26) at zero inference-time cost. |
+| [stock-pred](https://github.com/Seanachan/stock-pred) | Multi-stock PPO trading agent for 46 Taiwan large/mid caps, deployed live daily by GitHub Actions. |
+| [case-smith](https://github.com/Seanachan/case-smith) | Regression tests for legacy VB.NET from 7–8B local models: structure by deterministic code, semantics by the model. |
 | [seanachan.github.io](https://github.com/Seanachan/seanachan.github.io) | This portfolio — Astro, statically generated, fully bilingual 中/EN. |
 | [trip-schedule](https://github.com/Seanachan/trip-schedule) · [live](https://seanachan.github.io/trip-schedule/) | Renders a travel itinerary straight from an Obsidian note. TypeScript. |
 | [trip-debt-calculator](https://github.com/Seanachan/trip-debt-calculator) · [live](https://seanachan.github.io/trip-debt-calculator/) | Split trip expenses, settle up at the end. TypeScript. |
-| [wenyan-compiler](https://github.com/Seanachan/wenyan-compiler) | Compiler for wenyan-lang, the classical-Chinese programming language. C. |
 | [Welcome-on-board](https://github.com/Seanachan/Welcome-on-board) | Autonomous car on PIC18F4520 + XC8, with a paired voice-command Android app. Embedded C / assembly. |
 
 ---
