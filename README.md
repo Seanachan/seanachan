@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/header-dark.svg">
-  <img alt="Hsin-Chen Pai — I build systems that ship and get used." src="./profile/header.svg">
+  <img alt="Hsin-Chen Pai — Learning by building things." src="./profile/header.svg">
 </picture>
 
 ## Now
@@ -18,7 +18,7 @@ Open to 2027 new-grad SWE roles.
 
 | | Project | |
 |---|---|---|
-| **01** | **[GMC-Link](https://github.com/Seanachan/GMC-Link)** — camera ego-motion compensation for RMOT models, as a drop-in module. | **+53.5% HOTA** on Refer-KITTI, 14.08 → 21.62 |
+| **01** | **[GMC-Link](https://github.com/Seanachan/GMC-Link)** — camera ego-motion compensation for RMOT models, as a drop-in module. | **+9.44 moving-class HOTA** on Refer-KITTI, iKUN 27.70 → 37.14 |
 | **02** | **[FlexHook-CF](https://github.com/Seanachan/FlexHook-CF)** — counterfactual hard negatives for two-stage RMOT, extending FlexHook (CVPR'26). | Negatives built offline, so **zero inference cost** |
 | **03** | **[case-smith](https://github.com/Seanachan/case-smith)** — regression tests for legacy VB.NET from a 7–8B local model. | Structure is deterministic code; the model only fills semantics |
 | **04** | **[stock-pred](https://github.com/Seanachan/stock-pred)** — multi-stock PPO agent over 46 Taiwan large/mid caps. | Redeployed live every day at 11:00 by CI |

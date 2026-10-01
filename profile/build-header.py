@@ -82,8 +82,8 @@ def build(dark):
     o.append(text("PAI", 132, 800, M, 314, ink, -0.025)[0])
 
     # Tagline, set against the wordmark's second line on the right.
-    tag = "I BUILD SYSTEMS"
-    tag2 = "THAT SHIP AND GET USED."
+    tag = "LEARNING BY"
+    tag2 = "BUILDING THINGS."
     o.append(text(tag, 27, 600, M + 372, 268, ink, 0.02)[0])
     o.append(text(tag2, 27, 600, M + 372, 306, ink, 0.02)[0])
 
@@ -92,7 +92,7 @@ def build(dark):
     facts = [
         ("01", "NCKU × PURDUE  '27"),
         ("02", "CTO, TREKX"),
-        ("03", "RMOT RESEARCH, NYCU"),
+        ("03", "RMOT RESEARCH"),
     ]
     x = M
     for num, label in facts:
@@ -104,7 +104,7 @@ def build(dark):
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" '
         f'width="{W}" height="{H}" role="img" '
-        f'aria-label="Hsin-Chen Pai — I build systems that ship and get used.">'
+        f'aria-label="Hsin-Chen Pai — Learning by building things.">'
         + "".join(o)
         + "</svg>"
     )
